@@ -1,0 +1,17 @@
+//小米Open source Link
+https://github.com/MiCode
+//内核资源
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource
+//MI10内核代码
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cas-q-oss
+
+
+
+
+
+
+
+
+
+
+
