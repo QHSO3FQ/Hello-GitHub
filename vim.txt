@@ -1,0 +1,34 @@
+
+
+-set number
+-set ruler
+-set cursorline
+-
+-set smartindent
+-set showcmd
+-set showmatch
+-set showmode
+-set ignorecase
+-set smartcase
+-
+-set incsearch
+-set hlsearch
+-
+-set autowrite
+-set mouse=a
+-
+-set encoding=utf-8
+-set termencoding=utf-8
+-set fencs=utf-8,gbk
+-set t_Co=256
+-
+-set cmdheight=1
+-set laststatus=2
+-
+-:inoremap ( ()<ESC>i
+-:inoremap [ []<ESC>i
+-:inoremap { {<CR>}<ESC>ko
+-:inoremap " ""<ESC>i
+
+
+
